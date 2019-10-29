@@ -27,8 +27,6 @@ end
 def matrix_lookup(matrix, row, column)
   
   matrix[1][1]
-
-return
   # Return the matrix's content at row and column
 end
 

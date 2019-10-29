@@ -28,7 +28,7 @@ def matrix_lookup(matrix, row, column)
   
   ENNET_HOUSE[2]
 
-return ENNET_HOUSE
+return
   # Return the matrix's content at row and column
 end
 

@@ -31,7 +31,7 @@ def matrix_lookup(matrix, row, column)
 end
 
 def matrix_update(matrix, row, column, new_value)
-  ENNET_HOUSE[2] = "Tiny Ewell"
+  ENNET_HOUSE<< "Tiny Ewell"
 
 return ENNET_HOUSE
   

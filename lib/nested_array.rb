@@ -14,7 +14,7 @@ ENFIELD_TENNIS_ACADEMY=[
 
 def assembled_matrix
 [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
-return
+puts
 end
 
 def array_literal_matrix

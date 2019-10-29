@@ -26,7 +26,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  array[1][1]
+  matrix[1][1]
 
 return
   # Return the matrix's content at row and column

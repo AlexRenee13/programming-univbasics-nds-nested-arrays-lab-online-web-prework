@@ -13,8 +13,8 @@ ENFIELD_TENNIS_ACADEMY=[
   "Michael Pemulis"]
 
 def assembled_matrix
-[ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
-puts
+array=[ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
+return array
 end
 
 def array_literal_matrix
@@ -26,10 +26,9 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  
-  
-  
-  t
+  ENNET_HOUSE[2] = "Tiny Ewell"
+
+return ENNET_HOUSE
   # Return the matrix's content at row and column
 end
 

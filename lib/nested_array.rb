@@ -26,7 +26,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  ENNET_HOUSE[2] = "Tiny Ewell"
+  ENNET_HOUSE[2]
 
 return ENNET_HOUSE
   # Return the matrix's content at row and column
